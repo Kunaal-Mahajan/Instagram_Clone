@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.AreaChart?>
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.chart.PieChart?>
+<?import javafx.scene.chart.ScatterChart?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane id="AnchorPane" prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.HitsalgoController">
+   <children>
+      <TabPane fx:id="tabpane" layoutX="-12.0" layoutY="68.0" prefHeight="1012.0" prefWidth="1932.0" side="LEFT" style="-fx-background-color: transferent;" styleClass="anchorpane_singlepost" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab fx:id="barcharttab" text="BarChart">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <BarChart fx:id="barchart" layoutX="128.0" layoutY="70.0" legendSide="TOP" prefHeight="900.0" prefWidth="1630.0" titleSide="BOTTOM">
+                          <xAxis>
+                            <CategoryAxis side="BOTTOM" />
+                          </xAxis>
+                          <yAxis>
+                            <NumberAxis side="LEFT" />
+                          </yAxis>
+                        </BarChart>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+          <Tab fx:id="scattercharttab" text="ScatterChart">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <ScatterChart fx:id="scatterchart" layoutX="128.0" layoutY="70.0" legendSide="TOP" prefHeight="900.0" prefWidth="1630.0" titleSide="BOTTOM">
+                          <xAxis>
+                            <CategoryAxis side="BOTTOM" />
+                          </xAxis>
+                          <yAxis>
+                            <NumberAxis side="LEFT" />
+                          </yAxis>
+                        </ScatterChart>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+            <Tab fx:id="piecharttab" text="PieChart">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <PieChart fx:id="piechart" layoutX="128.0" layoutY="70.0" legendSide="RIGHT" prefHeight="900.0" prefWidth="1630.0" titleSide="BOTTOM" />
+                     </children>
+                  </AnchorPane>
+              </content>
+            </Tab>
+            <Tab fx:id="areacharttab" text="AreaChart">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <AreaChart fx:id="areachart" layoutX="128.0" layoutY="70.0" legendSide="TOP" prefHeight="900.0" prefWidth="1630.0" titleSide="BOTTOM">
+                          <xAxis>
+                            <CategoryAxis side="BOTTOM" />
+                          </xAxis>
+                          <yAxis>
+                            <NumberAxis side="LEFT" />
+                          </yAxis>
+                        </AreaChart>
+                     </children>
+                  </AnchorPane>
+              </content>
+            </Tab>
+        </tabs>
+      </TabPane>
+      <Pane layoutX="1862.0" layoutY="22.0" onMouseClicked="#onCloseClick">
+         <children>
+            <ImageView fitHeight="35.0" fitWidth="44.0">
+               <image>
+                  <Image url="@../img/close.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+      <Pane layoutX="54.0" layoutY="15.0" onMouseClicked="#onBackClick">
+         <children>
+            <ImageView fitHeight="35.0" fitWidth="44.0">
+               <image>
+                  <Image url="@../img/icons8-back-50%20(3).png" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

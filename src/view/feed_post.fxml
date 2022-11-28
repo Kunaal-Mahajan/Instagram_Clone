@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="750.0" prefWidth="500.0" style="-fx-background-color: fff;" stylesheets="@../values/main.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.Feed_postController">
+   <children>
+      <Pane layoutY="60.0" prefHeight="590.0" prefWidth="500.0">
+         <children>
+            <ImageView fx:id="img_url" fitHeight="590.0" fitWidth="500.0" onMouseClicked="#onPostClick" />
+         </children>
+      </Pane>
+      <ImageView fx:id="userprof" fitHeight="48.0" fitWidth="48.0" layoutX="16.0" layoutY="6.0">
+         <image>
+            <Image url="@../../../../../../../../../../../supportdata/userprof/user.jpg" />
+         </image>
+      </ImageView>
+      <Label fx:id="user_id" layoutX="74.0" layoutY="15.0" prefHeight="32.0" prefWidth="252.0" text="\@User">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+      </Label>
+      <Label alignment="BOTTOM_CENTER" contentDisplay="CENTER" layoutX="455.0" layoutY="6.0" prefHeight="32.0" prefWidth="22.0" text="..." textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="27.0" />
+         </font>
+      </Label>
+      <AnchorPane layoutY="650.0" prefHeight="50.0" prefWidth="500.0">
+         <children>
+            <Pane layoutX="8.0" layoutY="5.0" onMouseClicked="#onLikeClick">
+               <children>
+                  <ImageView fx:id="likeimgico" fitHeight="45.0" fitWidth="45.0">
+                     <image>
+                        <Image url="@../img/icons8-favorite-50.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Pane layoutX="74.0" layoutY="6.0" onMouseEntered="#onMessageEntered" onMouseExited="#onMessageExited">
+               <children>
+                  <ImageView fx:id="messageico" fitHeight="38.0" fitWidth="38.0" onMouseEntered="#onMessageEntered" onMouseExited="#onMessageExited">
+                     <image>
+                        <Image url="@../img/icons8-topic-50.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+            <Pane layoutX="138.0" layoutY="9.0" onMouseEntered="#onSentEntered" onMouseExited="#onSentExited">
+               <children>
+                  <ImageView fx:id="sentico" fitHeight="38.0" fitWidth="45.0" onMouseEntered="#onSentEntered" onMouseExited="#onSentExited">
+                     <image>
+                        <Image url="@../img/icons8-sent-50%20(2).png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+         </children>
+      </AnchorPane>
+      <Label fx:id="post_desc" alignment="TOP_LEFT" layoutX="115.0" layoutY="700.0" prefHeight="45.0" prefWidth="370.0" textAlignment="JUSTIFY" wrapText="true">
+         <font>
+            <Font size="20.0" />
+         </font></Label>
+      <ImageView fx:id="prof_ico_1" fitHeight="24.0" fitWidth="22.0" layoutX="10.0" layoutY="704.0">
+         <image>
+            <Image url="@../img/user.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="prof_ico_3" fitHeight="24.0" fitWidth="22.0" layoutX="19.0" layoutY="719.0">
+         <image>
+            <Image url="@../img/user.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="prof_ico_2" fitHeight="24.0" fitWidth="22.0" layoutX="28.0" layoutY="707.0">
+         <image>
+            <Image url="@../img/user.jpg" />
+         </image>
+      </ImageView>
+   </children>
+   <styleClass>
+      <String fx:value="anchorpane_singlepost" />
+      <String fx:value="bevel-grey" />
+      <String fx:value="raised" />
+      <String fx:value="elevator" />
+   </styleClass>
+</AnchorPane>
