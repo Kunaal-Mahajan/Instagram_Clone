@@ -1,0 +1,2076 @@
+*vertices 599
+1 3375214002 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 1
+2 3374111879 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 2
+3 3375173179 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 3
+4 3374998612 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 4
+5 3374270023 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 5
+24 3375286464 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 24
+7 3374555909 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 7
+8 3374309602 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 8
+9 3374791559 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 9
+10 3374255965 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 10
+11 3374332414 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 11
+12 3375202369 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 12
+453 ricette 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 453
+13 chocolat 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 13
+14 3374495266 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 14
+15 3374630015 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 15
+16 3374351880 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 16
+17 food 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 17
+18 3374467079 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 18
+19 3375354629 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 19
+20 ram 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 20
+21 3374331357 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 21
+22 3374666214 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 22
+23 3374865127 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 23
+6 3374646361 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 6
+26 3374141972 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 26
+27 3375343736 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 27
+159 blogger 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 159
+30 3374150934 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 30
+399 3375221856 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 399
+32 3374133987 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 32
+107 3375893243 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 107
+33 3375052642 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 33
+34 3376396572 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 34
+35 3375626951 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 35
+37 3374892524 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 37
+38 3376263527 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 38
+39 3375856453 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 39
+40 qui 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 40
+41 3374425198 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 41
+42 3377474470 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 42
+43 3375634413 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 43
+44 3374614388 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 44
+45 3374517125 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 45
+46 3374639490 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 46
+47 lover 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 47
+48 3374230319 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 48
+49 3374462526 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 49
+50 3374270107 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 50
+530 creamy 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 530
+82 3377466112 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 82
+335 3374647452 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 335
+54 3377377803 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 54
+55 3374484670 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 55
+56 3374200801 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 56
+563 3374574864 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 563
+57 3375561801 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 57
+58 3376327465 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 58
+59 3374787839 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 59
+60 3375899353 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 60
+61 italia 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 61
+62 3374131525 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 62
+348 3374141807 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 348
+63 3374989935 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 63
+64 3375809374 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 64
+65 mouth 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 65
+66 3375051028 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 66
+67 3374092858 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 67
+68 regional 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 68
+69 3376260339 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 69
+70 desert 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 70
+71 ente 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 71
+72 3376420311 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 72
+73 3375265950 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 73
+74 3375028779 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 74
+75 3374183171 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 75
+76 3374235864 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 76
+78 3374819501 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 78
+79 3375422981 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 79
+80 3374481230 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 80
+81 3374224604 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 81
+409 3374973225 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 409
+83 3376976447 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 83
+36 rty 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 36
+85 3374518625 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 85
+86 3375547699 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 86
+87 3374656276 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 87
+88 3374186262 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 88
+89 3374219021 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 89
+90 3376481437 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 90
+91 3374215148 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 91
+92 3375200188 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 92
+93 3375176469 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 93
+94 3374320564 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 94
+113 3374530176 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 113
+96 3374585530 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 96
+97 3374530532 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 97
+25 3374182174 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 25
+99 3375644097 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 99
+520 3374244448 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 520
+100 3376549975 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 100
+102 3375233088 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 102
+103 3374309456 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 103
+104 3375264991 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 104
+105 3374515620 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 105
+106 3375148852 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 106
+254 3374118774 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 254
+108 3375424433 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 108
+126 chocolate 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 126
+278 3374477746 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 278
+111 italiani 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 111
+547 3374713453 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 547
+95 3374172837 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 95
+115 3374224646 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 115
+116 3376239908 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 116
+575 instagram 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 575
+117 3374744780 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 117
+118 3377097959 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 118
+296 3375730844 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 296
+120 napoli 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 120
+121 3375674216 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 121
+122 3376821566 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 122
+123 3376452527 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 123
+125 3375192812 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 125
+127 3374218695 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 127
+128 3375808613 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 128
+129 3376912750 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 129
+130 3376406016 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 130
+131 3375678362 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 131
+132 3374560937 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 132
+133 3376300626 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 133
+134 3375133183 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 134
+135 3374727986 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 135
+136 3374097114 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 136
+137 3374118975 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 137
+138 3375873641 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 138
+139 3374186817 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 139
+119 3374781743 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 119
+141 3374392411 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 141
+142 3374430749 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 142
+143 3374122076 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 143
+144 3374722207 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 144
+145 3375376947 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 145
+146 3374469640 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 146
+147 3374333287 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 147
+148 3375857063 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 148
+149 3374136979 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 149
+150 3374714580 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 150
+151 3374289785 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 151
+153 3374484739 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 153
+154 3374334904 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 154
+155 very 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 155
+156 rio 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 156
+158 3374130780 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 158
+29 3375736064 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 29
+160 3374254710 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 160
+161 3375551145 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 161
+162 candy 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 162
+163 3374214043 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 163
+450 ricetta 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 450
+165 3374237178 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 165
+52 3374220285 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 52
+166 3374436883 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 166
+167 3376803316 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 167
+168 3374685833 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 168
+255 3375048815 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 255
+170 3375856764 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 170
+171 3374369820 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 171
+172 3374277817 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 172
+173 3374246941 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 173
+169 3374590516 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 169
+174 3374354682 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 174
+175 3376068498 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 175
+176 3375810756 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 176
+179 pic 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 179
+110 3375872841 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 110
+181 3375420070 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 181
+182 3375153428 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 182
+183 3376490420 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 183
+184 3374500601 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 184
+589 3374777892 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 589
+186 like 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 186
+187 3374784548 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 187
+188 3374716613 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 188
+189 3374307481 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 189
+190 3374151085 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 190
+191 3374746595 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 191
+192 3374238509 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 192
+193 3374799703 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 193
+194 3378753549 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 194
+195 3375427876 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 195
+196 italian 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 196
+197 rico 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 197
+198 3374268472 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 198
+199 3374149591 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 199
+200 meal 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 200
+201 3374528788 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 201
+202 3375619455 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 202
+203 3374910467 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 203
+204 appetite 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 204
+205 meri 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 205
+206 3374365104 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 206
+207 3378714264 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 207
+430 3374549700 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 430
+209 3375002807 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 209
+377 3375941978 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 377
+210 3376415369 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 210
+212 3374112303 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 212
+213 3374587892 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 213
+214 3374149974 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 214
+216 3374505733 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 216
+217 3374672383 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 217
+218 3374757569 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 218
+219 perfec 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 219
+220 3374127272 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 220
+221 3375325885 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 221
+223 3375027311 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 223
+224 3374541930 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 224
+225 3375351344 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 225
+226 3374219455 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 226
+227 photography 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 227
+228 3374418211 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 228
+229 and 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 229
+231 3374152938 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 231
+232 3375135369 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 232
+233 3378177929 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 233
+234 3375926723 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 234
+303 3376148720 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 303
+238 3374926328 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 238
+239 3375391928 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 239
+240 dolci 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 240
+241 3374316423 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 241
+242 3374612504 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 242
+243 3375171182 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 243
+543 3374564347 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 543
+245 3374323588 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 245
+246 3374699191 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 246
+248 3374248101 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 248
+339 3374465125 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 339
+251 3374921032 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 251
+252 3374210369 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 252
+253 3376335587 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 253
+256 3374404800 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 256
+180 3376236646 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 180
+257 3375959106 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 257
+258 3374371634 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 258
+260 3375557544 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 260
+261 3376196534 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 261
+262 3374508454 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 262
+263 tasty 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 263
+264 3375028793 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 264
+555 3374259900 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 555
+265 3374186593 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 265
+266 3374384998 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 266
+267 3374127815 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 267
+493 3374283039 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 493
+269 dark 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 269
+270 deli 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 270
+271 3374885850 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 271
+272 3378048614 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 272
+273 3375886781 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 273
+274 3374818680 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 274
+275 3374921852 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 275
+276 3374326753 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 276
+277 3374601183 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 277
+279 3374480970 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 279
+280 3374858557 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 280
+281 3375025954 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 281
+282 3375375735 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 282
+236 3374780743 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 236
+551 3374236385 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 551
+285 3376047465 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 285
+286 3375078871 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 286
+561 3374307529 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 561
+288 3374557877 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 288
+289 3374699805 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 289
+290 3374182171 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 290
+291 3374134187 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 291
+292 3374780745 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 292
+294 3375607023 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 294
+295 best 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 295
+588 end 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 588
+297 tat 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 297
+298 3376845767 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 298
+299 3375759133 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 299
+300 3374728415 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 300
+301 3374797095 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 301
+302 3377695845 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 302
+244 ruelas 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 244
+333 3376275940 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 333
+304 3375906023 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 304
+305 3374962784 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 305
+306 cette 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 306
+307 3374122651 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 307
+308 3377085614 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 308
+309 3375135767 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 309
+310 watering 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 310
+311 3374209982 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 311
+312 3374529338 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 312
+313 3377480293 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 313
+314 3375604303 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 314
+315 3376191227 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 315
+316 colazione 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 316
+317 3374123609 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 317
+318 3376375129 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 318
+319 3374396124 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 319
+320 3375452517 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 320
+101 jum 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 101
+322 close 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 322
+323 3374739424 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 323
+326 piatti 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 326
+327 3378559764 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 327
+328 3375096689 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 328
+329 3374439407 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 329
+401 3374705670 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 401
+331 3374323559 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 331
+332 3374766731 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 332
+211 overload 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 211
+334 3375125967 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 334
+53 3374772600 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 53
+336 are 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 336
+337 tag 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 337
+338 dessert 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 338
+51 3374781575 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 51
+259 dien 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 259
+340 3374135446 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 340
+341 3374349778 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 341
+342 3375296268 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 342
+343 3374382575 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 343
+344 3374650001 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 344
+114 3374262132 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 114
+346 3375342371 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 346
+347 3374744013 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 347
+324 3375416526 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 324
+349 3375520432 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 349
+350 3374598988 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 350
+360 3374355403 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 360
+352 hungry 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 352
+353 3374743212 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 353
+354 fond 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 354
+355 3376548488 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 355
+356 3374098976 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 356
+357 3374714618 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 357
+249 3374442268 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 249
+358 3374267969 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 358
+359 3375676799 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 359
+586 per 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 586
+361 3374836679 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 361
+362 fruit 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 362
+363 3374690920 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 363
+364 3374349597 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 364
+178 3374327330 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 178
+366 3374208456 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 366
+367 3376943296 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 367
+368 3376852822 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 368
+369 3374112507 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 369
+112 3374180132 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 112
+370 3374175912 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 370
+371 3374495037 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 371
+222 3375331322 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 222
+373 3374169193 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 373
+374 3374707624 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 374
+375 3374293621 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 375
+376 3374137612 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 376
+98 3375363912 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 98
+378 3374986701 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 378
+379 3376912178 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 379
+380 3376571658 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 380
+381 3374606666 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 381
+436 good 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 436
+383 3376192186 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 383
+384 angry 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 384
+385 yummi 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 385
+386 3375653427 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 386
+387 panna 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 387
+388 3375310471 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 388
+389 3374782687 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 389
+390 3374858377 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 390
+391 3374139006 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 391
+392 3375466348 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 392
+393 3374826708 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 393
+394 3374309163 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 394
+395 3376714498 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 395
+396 profiterole 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 396
+397 miller 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 397
+398 this 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 398
+293 3376248610 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 293
+400 3374533069 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 400
+402 3374419337 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 402
+325 3377146130 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 325
+404 3374193515 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 404
+405 3374231509 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 405
+406 3374588286 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 406
+407 3374454324 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 407
+408 3374719157 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 408
+321 3374178124 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 321
+410 3376458341 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 410
+411 blog 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 411
+412 vision 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 412
+413 3375939416 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 413
+235 3374415489 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 235
+416 3374832354 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 416
+417 3374690395 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 417
+418 3374760438 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 418
+419 3374514048 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 419
+420 3374681531 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 420
+422 3375771052 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 422
+423 3374860105 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 423
+424 bello 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 424
+425 3375357246 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 425
+426 postre 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 426
+427 3374500701 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 427
+428 3374542714 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 428
+429 3374268883 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 429
+140 3376906040 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 140
+431 3374423309 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 431
+432 3375314322 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 432
+433 3374395319 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 433
+434 repost 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 434
+435 3374155973 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 435
+287 3374869313 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 287
+230 3374280621 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 230
+437 3374661307 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 437
+438 3375726745 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 438
+439 3374662234 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 439
+440 3374347540 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 440
+441 3377624088 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 441
+31 3376475566 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 31
+443 3376453894 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 443
+444 life 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 444
+445 delicious 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 445
+446 3374752254 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 446
+447 3375600282 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 447
+448 3374107769 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 448
+449 3375403332 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 449
+164 3375867026 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 164
+451 porn 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 451
+452 3374201483 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 452
+330 bye 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 330
+454 3374123112 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 454
+455 3374769461 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 455
+456 3374502446 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 456
+457 3374314262 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 457
+458 3376300083 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 458
+459 3375239047 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 459
+460 3375393570 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 460
+461 3374883494 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 461
+268 3375683516 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 268
+462 3374644361 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 462
+84 comida 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 84
+463 3374107231 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 463
+464 3374196558 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 464
+465 3375852267 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 465
+28 3374952753 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 28
+468 3375832925 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 468
+469 nojo 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 469
+470 inst 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 470
+471 3374682295 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 471
+345 dolce 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 345
+595 3374187683 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 595
+473 3374422309 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 473
+208 3374726353 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 208
+474 3374885606 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 474
+475 3374262846 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 475
+476 3374264454 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 476
+477 3375234858 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 477
+478 3374487803 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 478
+414 3374240386 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 414
+480 3374278734 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 480
+481 3376556167 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 481
+482 3374445755 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 482
+483 3374847940 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 483
+484 3374454058 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 484
+485 3374436193 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 485
+486 3374354997 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 486
+487 3374484555 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 487
+488 3374871697 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 488
+489 cupcake 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 489
+553 sweet 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 553
+491 3374190758 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 491
+492 3376050396 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 492
+479 3374275539 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 479
+415 few 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 415
+495 3374349865 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 495
+372 3375668239 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 372
+497 3376341681 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 497
+498 3376373452 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 498
+499 love 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 499
+500 3374474913 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 500
+501 3376226942 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 501
+502 3375426576 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 502
+503 pastel 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 503
+504 3375856923 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 504
+505 italiana 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 505
+506 3376511828 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 506
+507 day 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 507
+508 cream 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 508
+509 3374716955 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 509
+510 3374995354 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 510
+511 3374954118 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 511
+512 3376950285 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 512
+513 kriz 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 513
+514 3375857255 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 514
+365 moment 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 365
+515 3374316240 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 515
+516 3374505202 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 516
+517 3376470253 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 517
+518 3375076069 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 518
+519 3375634312 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 519
+382 yummy 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 382
+521 3374455200 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 521
+522 nice 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 522
+523 3374322176 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 523
+524 3374745774 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 524
+525 3375721268 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 525
+559 3374123215 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 559
+526 3376436410 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 526
+527 3375472546 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 527
+528 3375244389 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 528
+529 3374948644 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 529
+152 3374210079 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 152
+531 3376833191 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 531
+496 3374143612 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 496
+532 3376678695 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 532
+533 3374666656 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 533
+534 sugar 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 534
+535 3374190763 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 535
+466 damon 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 466
+536 3376031773 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 536
+537 3374271456 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 537
+442 3376025445 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 442
+538 3376442543 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 538
+283 3374181630 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 283
+539 3374183448 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 539
+540 3374158322 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 540
+541 3374400008 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 541
+592 3374516206 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 592
+124 3376195795 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 124
+544 3374320315 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 544
+545 chocoholic 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 545
+546 kill 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 546
+157 3375007840 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 157
+548 3376020988 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 548
+421 3374775254 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 421
+550 3374177386 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 550
+467 3376704915 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 467
+552 3376064617 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 552
+490 3374370140 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 490
+554 3375924476 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 554
+250 3374825304 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 250
+556 3374243760 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 556
+557 3374712149 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 557
+558 3374677213 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 558
+284 3374296025 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 284
+560 delic 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 560
+77 3375016965 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 77
+562 3376010602 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 562
+247 3374706922 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 247
+564 3374326987 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 564
+565 gfh 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 565
+566 diet 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 566
+567 3374685148 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 567
+568 3374147639 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 568
+569 3374775163 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 569
+570 merenda 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 570
+571 3374429315 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 571
+572 3374094788 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 572
+573 3374786466 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 573
+494 3375564966 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 494
+574 3375328733 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 574
+351 3375142783 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 351
+576 3374116431 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 576
+577 3376480102 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 577
+578 3374133007 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 578
+579 3374304628 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 579
+580 3374695331 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 580
+581 3374162648 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 581
+582 3376706853 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 582
+583 3375080003 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 583
+584 3375570056 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 584
+585 3374477748 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 585
+602 3377365390 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 602
+587 cio 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 587
+215 3375575722 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 215
+185 3374609462 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 185
+590 3376380020 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 590
+591 dulce 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 591
+593 black 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 593
+594 3374623614 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 594
+542 3375567287 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 542
+596 3374849622 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 596
+597 3374304107 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 597
+598 3377503525 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 598
+599 3376627129 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 599
+600 hermoso 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 600
+601 3374777264 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 601
+549 3375632735 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 549
+603 3374223124 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 603
+604 try 0.0 0.0 ellipse x 0.0 y 0.0 shape ellipse id 604
+*arcs
+1 17 0.24447042548055314
+1 451 0.24447042548055314
+2 17 0.28248465930884586
+2 126 0.28248465930884586
+2 337 0.28248465930884586
+2 451 0.28248465930884586
+2 20 0.28248465930884586
+2 396 0.28248465930884586
+3 338 0.2334709950698492
+3 17 0.2334709950698492
+3 20 0.2334709950698492
+3 337 0.2334709950698492
+4 17 0.2742910487731311
+4 111 0.2742910487731311
+4 451 0.2742910487731311
+4 68 0.2742910487731311
+4 453 0.2742910487731311
+4 345 0.2742910487731311
+4 326 0.2742910487731311
+4 227 0.2742910487731311
+5 17 0.21072249523664213
+5 397 0.21072249523664213
+5 306 0.21072249523664213
+5 316 0.21072249523664213
+5 120 0.21072249523664213
+5 411 0.21072249523664213
+5 345 0.21072249523664213
+5 505 0.21072249523664213
+24 397 0.1041931342112798
+24 306 0.1041931342112798
+7 345 0.21455877595812728
+7 453 0.21455877595812728
+8 345 0.2512180962304041
+8 453 0.2512180962304041
+8 126 0.2512180962304041
+8 227 0.2512180962304041
+9 338 0.2298685826030683
+9 345 0.2298685826030683
+9 17 0.2298685826030683
+10 453 0.1472431050787064
+11 396 0.17183420220745876
+12 345 0.2228577183346197
+14 345 0.21856169891290508
+14 17 0.21856169891290508
+14 197 0.21856169891290508
+14 126 0.21856169891290508
+14 227 0.21856169891290508
+15 17 0.18480617885715475
+16 126 0.13463853201404255
+18 345 0.24370672908808746
+18 17 0.24370672908808746
+18 434 0.24370672908808746
+19 345 0.22100517592356997
+19 365 0.22100517592356997
+19 126 0.22100517592356997
+19 470 0.22100517592356997
+19 227 0.22100517592356997
+21 126 0.22229128822259867
+21 426 0.22229128822259867
+22 126 0.24518460841672263
+22 111 0.24518460841672263
+22 354 0.24518460841672263
+22 326 0.24518460841672263
+22 71 0.24518460841672263
+22 396 0.24518460841672263
+23 126 0.12629352197658922
+6 126 0.19584318462015846
+26 17 0.253493963419171
+26 20 0.253493963419171
+26 499 0.253493963419171
+26 451 0.253493963419171
+26 337 0.253493963419171
+27 345 0.18662748437821725
+27 126 0.18662748437821725
+27 396 0.18662748437821725
+30 17 0.26350116588239336
+30 434 0.26350116588239336
+399 570 0.2180316066773933
+399 387 0.2180316066773933
+399 505 0.2180316066773933
+399 453 0.2180316066773933
+32 17 0.24737364535695341
+32 126 0.24737364535695341
+32 354 0.24737364535695341
+32 240 0.24737364535695341
+32 451 0.24737364535695341
+32 412 0.24737364535695341
+32 71 0.24737364535695341
+107 17 0.2025099937671863
+107 451 0.2025099937671863
+107 179 0.2025099937671863
+107 396 0.2025099937671863
+33 396 0.17671564528058553
+34 508 0.27446207897555946
+34 229 0.27446207897555946
+34 387 0.27446207897555946
+34 354 0.27446207897555946
+34 71 0.27446207897555946
+34 396 0.27446207897555946
+35 126 0.19468046295784647
+35 396 0.19468046295784647
+37 17 0.1563142397492802
+37 553 0.1563142397492802
+38 17 0.11542498051106559
+38 387 0.11542498051106559
+39 345 0.2751217570033926
+39 126 0.2751217570033926
+39 354 0.2751217570033926
+39 71 0.2751217570033926
+39 17 0.2751217570033926
+41 345 0.24590701276494975
+41 396 0.24590701276494975
+41 227 0.24590701276494975
+42 345 0.20888595089382736
+42 126 0.20888595089382736
+43 17 0.2130267641613848
+43 126 0.2130267641613848
+43 20 0.2130267641613848
+43 337 0.2130267641613848
+43 469 0.2130267641613848
+43 396 0.2130267641613848
+44 17 0.20904726953188515
+44 126 0.20904726953188515
+44 354 0.20904726953188515
+44 71 0.20904726953188515
+46 546 0.20129476091146964
+46 450 0.20129476091146964
+46 156 0.20129476091146964
+46 126 0.20129476091146964
+48 126 0.0984604385056977
+48 396 0.0984604385056977
+49 345 0.09774159088973193
+50 17 0.16398590291095316
+82 126 0.0746507160379826
+335 345 0.26964490393918605
+335 126 0.26964490393918605
+335 354 0.26964490393918605
+335 71 0.26964490393918605
+54 17 0.2306123950245997
+54 451 0.2306123950245997
+54 126 0.2306123950245997
+55 17 0.1920136190032033
+55 575 0.1920136190032033
+56 17 0.2759840357637626
+56 126 0.2759840357637626
+56 451 0.2759840357637626
+56 322 0.2759840357637626
+56 396 0.2759840357637626
+563 126 0.23260557837363735
+563 382 0.23260557837363735
+563 354 0.23260557837363735
+563 71 0.23260557837363735
+57 17 0.27760086494462016
+57 20 0.27760086494462016
+57 120 0.27760086494462016
+57 411 0.27760086494462016
+57 337 0.27760086494462016
+58 159 0.17154456799114676
+58 17 0.17154456799114676
+58 450 0.17154456799114676
+58 156 0.17154456799114676
+58 453 0.17154456799114676
+59 396 0.134109138283099
+60 17 0.19541263410168241
+60 126 0.19541263410168241
+62 397 0.20281879302589648
+62 387 0.20281879302589648
+62 453 0.20281879302589648
+62 450 0.20281879302589648
+62 396 0.20281879302589648
+62 466 0.20281879302589648
+62 336 0.20281879302589648
+62 306 0.20281879302589648
+62 354 0.20281879302589648
+62 156 0.20281879302589648
+62 71 0.20281879302589648
+348 345 0.19636306803741463
+348 126 0.19636306803741463
+63 345 0.2745736857666733
+63 126 0.2745736857666733
+63 396 0.2745736857666733
+64 159 0.2144067402763918
+64 17 0.2144067402763918
+64 47 0.2144067402763918
+64 322 0.2144067402763918
+66 354 0.27644618436377716
+66 426 0.27644618436377716
+66 345 0.27644618436377716
+66 450 0.27644618436377716
+66 156 0.27644618436377716
+66 71 0.27644618436377716
+66 227 0.27644618436377716
+67 17 0.16292968096497726
+72 17 0.24843274266721913
+72 345 0.24843274266721913
+72 227 0.24843274266721913
+72 499 0.24843274266721913
+72 126 0.24843274266721913
+73 345 0.1357234209009373
+73 436 0.1357234209009373
+74 345 0.2621655876910452
+74 17 0.2621655876910452
+74 499 0.2621655876910452
+74 126 0.2621655876910452
+75 126 0.15359892114230214
+76 466 0.1877443833145041
+76 17 0.1877443833145041
+76 196 0.1877443833145041
+76 387 0.1877443833145041
+76 336 0.1877443833145041
+76 570 0.1877443833145041
+76 505 0.1877443833145041
+78 17 0.1779101976591159
+78 126 0.1779101976591159
+79 345 0.2504675973784205
+79 17 0.2504675973784205
+79 227 0.2504675973784205
+79 575 0.2504675973784205
+79 126 0.2504675973784205
+81 17 0.18919175141583364
+81 126 0.18919175141583364
+81 354 0.18919175141583364
+81 71 0.18919175141583364
+409 17 0.16806609709835946
+409 575 0.16806609709835946
+83 17 0.22320335806384015
+83 322 0.22320335806384015
+83 227 0.22320335806384015
+85 17 0.19973777942677745
+85 179 0.19973777942677745
+86 466 0.16920147519692696
+86 387 0.16920147519692696
+86 316 0.16920147519692696
+86 336 0.16920147519692696
+86 505 0.16920147519692696
+86 227 0.16920147519692696
+87 17 0.2634015583328804
+87 20 0.2634015583328804
+87 337 0.2634015583328804
+87 126 0.2634015583328804
+87 227 0.2634015583328804
+88 126 0.18077605298684557
+88 396 0.18077605298684557
+89 412 0.22552006149111148
+89 126 0.22552006149111148
+89 240 0.22552006149111148
+90 570 0.10072884437839545
+90 505 0.10072884437839545
+91 345 0.28505939942479
+91 126 0.28505939942479
+91 396 0.28505939942479
+92 17 0.2811577783354282
+92 196 0.2811577783354282
+92 20 0.2811577783354282
+92 337 0.2811577783354282
+92 179 0.2811577783354282
+92 345 0.2811577783354282
+93 17 0.20008674021754083
+93 575 0.20008674021754083
+94 17 0.24853608318306078
+94 396 0.24853608318306078
+94 120 0.24853608318306078
+94 444 0.24853608318306078
+113 159 0.253770263876239
+113 17 0.253770263876239
+113 179 0.253770263876239
+113 354 0.253770263876239
+113 322 0.253770263876239
+113 71 0.253770263876239
+113 396 0.253770263876239
+96 126 0.2419283101827822
+97 17 0.21519694022210373
+97 434 0.21519694022210373
+97 560 0.21519694022210373
+97 575 0.21519694022210373
+99 17 0.2035257220236133
+99 396 0.2035257220236133
+520 17 0.2594336002483525
+520 489 0.2594336002483525
+520 396 0.2594336002483525
+100 326 0.14746330436377153
+100 453 0.14746330436377153
+100 111 0.14746330436377153
+102 17 0.23905268164937646
+102 68 0.23905268164937646
+102 111 0.23905268164937646
+102 240 0.23905268164937646
+102 326 0.23905268164937646
+102 453 0.23905268164937646
+102 412 0.23905268164937646
+102 120 0.23905268164937646
+103 396 0.1530486544330266
+104 17 0.27607679871881186
+104 126 0.27607679871881186
+104 120 0.27607679871881186
+104 451 0.27607679871881186
+104 396 0.27607679871881186
+106 126 0.14435981101216808
+254 396 0.14738098612612827
+108 326 0.08053691096184934
+108 68 0.08053691096184934
+108 111 0.08053691096184934
+278 17 0.3002579494606035
+278 387 0.3002579494606035
+278 179 0.3002579494606035
+278 345 0.3002579494606035
+278 453 0.3002579494606035
+278 503 0.3002579494606035
+547 126 0.07589474289430631
+95 126 0.17223451797605616
+115 17 0.24847965432805863
+115 126 0.24847965432805863
+115 337 0.24847965432805863
+115 20 0.24847965432805863
+115 396 0.24847965432805863
+116 345 0.20306835642656595
+116 126 0.20306835642656595
+117 111 0.26480701499722153
+117 387 0.26480701499722153
+117 553 0.26480701499722153
+117 326 0.26480701499722153
+117 362 0.26480701499722153
+117 227 0.26480701499722153
+118 345 0.2594178469856755
+118 17 0.2594178469856755
+118 354 0.2594178469856755
+118 71 0.2594178469856755
+118 451 0.2594178469856755
+296 17 0.2482579906068071
+296 20 0.2482579906068071
+296 337 0.2482579906068071
+296 345 0.2482579906068071
+296 227 0.2482579906068071
+121 396 0.15367701269719172
+122 396 0.18757463330973156
+123 159 0.11998036777467978
+123 17 0.11998036777467978
+123 499 0.11998036777467978
+125 396 0.22232867291533961
+128 126 0.2342237193939487
+128 322 0.2342237193939487
+128 396 0.2342237193939487
+129 17 0.13744752859176113
+129 84 0.13744752859176113
+130 338 0.2509763360308158
+130 345 0.2509763360308158
+130 17 0.2509763360308158
+131 17 0.2136004421065003
+131 396 0.2136004421065003
+132 345 0.25430022859554063
+132 17 0.25430022859554063
+132 396 0.25430022859554063
+133 396 0.18833400298478759
+134 17 0.2501140661220431
+134 20 0.2501140661220431
+134 337 0.2501140661220431
+134 451 0.2501140661220431
+134 126 0.2501140661220431
+134 227 0.2501140661220431
+134 396 0.2501140661220431
+135 17 0.19244570406803566
+135 179 0.19244570406803566
+136 570 0.07637787185189239
+136 505 0.07637787185189239
+137 17 0.23561712499014464
+137 126 0.23561712499014464
+138 126 0.09988091451205779
+139 126 0.17392964595577756
+119 17 0.2586211035295068
+119 499 0.2586211035295068
+141 17 0.15569750089311507
+142 126 0.24708158773770156
+142 354 0.24708158773770156
+142 71 0.24708158773770156
+142 396 0.24708158773770156
+143 126 0.1267060879561584
+144 345 0.22092161985873587
+144 126 0.22092161985873587
+145 345 0.13232709733833709
+146 345 0.20603141232225777
+146 396 0.20603141232225777
+148 17 0.187182183018701
+148 575 0.187182183018701
+149 387 0.10682506387509078
+150 396 0.20918920080526482
+151 345 0.2575275125880222
+151 126 0.2575275125880222
+151 227 0.2575275125880222
+153 345 0.09718880652915071
+153 600 0.09718880652915071
+154 17 0.17888885202410132
+154 20 0.17888885202410132
+154 499 0.17888885202410132
+154 337 0.17888885202410132
+158 126 0.2424141600016899
+158 354 0.2424141600016899
+158 71 0.2424141600016899
+158 396 0.2424141600016899
+29 126 0.21609827618710672
+29 534 0.21609827618710672
+29 396 0.21609827618710672
+160 126 0.2147616954615491
+160 505 0.2147616954615491
+160 570 0.2147616954615491
+161 345 0.2546438260258953
+161 17 0.2546438260258953
+161 120 0.2546438260258953
+161 451 0.2546438260258953
+163 126 0.22539508075525516
+163 354 0.22539508075525516
+163 71 0.22539508075525516
+165 345 0.12262041499425795
+52 345 0.1586025993069614
+166 345 0.1803972132995101
+167 345 0.19635316542909292
+167 570 0.19635316542909292
+167 505 0.19635316542909292
+168 396 0.10424017382912487
+255 17 0.19617269397955445
+255 126 0.19617269397955445
+255 316 0.19617269397955445
+255 522 0.19617269397955445
+255 505 0.19617269397955445
+255 507 0.19617269397955445
+171 345 0.24040024324522574
+171 453 0.24040024324522574
+171 396 0.24040024324522574
+172 17 0.1781143145573739
+172 126 0.1781143145573739
+172 179 0.1781143145573739
+173 396 0.14424109884796135
+169 466 0.10278525844414409
+169 387 0.10278525844414409
+169 336 0.10278525844414409
+174 17 0.23907918718955468
+174 575 0.23907918718955468
+174 20 0.23907918718955468
+174 337 0.23907918718955468
+174 179 0.23907918718955468
+175 126 0.09133469067878802
+176 159 0.2784901776380005
+176 17 0.2784901776380005
+176 179 0.2784901776380005
+176 126 0.2784901776380005
+110 345 0.19201044270151799
+110 17 0.19201044270151799
+110 426 0.19201044270151799
+181 17 0.20591313676686343
+181 47 0.20591313676686343
+183 345 0.1934065414543091
+183 126 0.1934065414543091
+184 17 0.273377886463586
+184 387 0.273377886463586
+184 354 0.273377886463586
+184 126 0.273377886463586
+184 345 0.273377886463586
+184 71 0.273377886463586
+184 396 0.273377886463586
+589 17 0.316379287184996
+589 337 0.316379287184996
+589 126 0.316379287184996
+589 345 0.316379287184996
+589 20 0.316379287184996
+589 396 0.316379287184996
+589 575 0.316379287184996
+589 227 0.316379287184996
+187 13 0.1727781224191159
+188 17 0.1988404817246629
+188 451 0.1988404817246629
+188 396 0.1988404817246629
+190 17 0.1269616788892442
+190 570 0.1269616788892442
+190 111 0.1269616788892442
+190 499 0.1269616788892442
+190 326 0.1269616788892442
+190 68 0.1269616788892442
+190 505 0.1269616788892442
+191 345 0.22943845622825915
+191 126 0.22943845622825915
+191 396 0.22943845622825915
+192 17 0.18126422901795
+192 451 0.18126422901795
+192 396 0.18126422901795
+194 17 0.21545734858219273
+194 227 0.21545734858219273
+195 17 0.15594122026988536
+195 499 0.15594122026988536
+195 396 0.15594122026988536
+198 345 0.13273158508696578
+199 17 0.29780333768164746
+199 126 0.29780333768164746
+199 387 0.29780333768164746
+199 336 0.29780333768164746
+199 179 0.29780333768164746
+199 411 0.29780333768164746
+199 575 0.29780333768164746
+199 434 0.29780333768164746
+199 466 0.29780333768164746
+199 159 0.29780333768164746
+199 398 0.29780333768164746
+199 186 0.29780333768164746
+199 120 0.29780333768164746
+199 345 0.29780333768164746
+202 17 0.23287294807102932
+202 451 0.23287294807102932
+202 126 0.23287294807102932
+203 126 0.25065441984296927
+203 240 0.25065441984296927
+203 412 0.25065441984296927
+203 322 0.25065441984296927
+203 396 0.25065441984296927
+206 126 0.18800163460282535
+206 396 0.18800163460282535
+207 570 0.09142198379444316
+207 505 0.09142198379444316
+430 126 0.13928068908534397
+209 345 0.26738985561768175
+209 17 0.26738985561768175
+209 126 0.26738985561768175
+377 345 0.18336034154940772
+377 126 0.18336034154940772
+210 345 0.1661296447949911
+210 396 0.1661296447949911
+212 17 0.2340058632580677
+212 126 0.2340058632580677
+213 227 0.09649522333082441
+214 396 0.17684481334618218
+216 345 0.21688782074689075
+216 453 0.21688782074689075
+216 227 0.21688782074689075
+217 126 0.1945709936759254
+217 396 0.1945709936759254
+218 126 0.27176150248735825
+218 354 0.27176150248735825
+218 71 0.27176150248735825
+220 126 0.23954214880978464
+220 197 0.23954214880978464
+220 316 0.23954214880978464
+220 505 0.23954214880978464
+220 396 0.23954214880978464
+221 387 0.19447055300723431
+221 396 0.19447055300723431
+223 345 0.251069417892826
+223 17 0.251069417892826
+223 126 0.251069417892826
+224 126 0.17693388167081986
+225 345 0.20843268760212258
+225 396 0.20843268760212258
+226 17 0.1910225224397012
+226 326 0.1910225224397012
+226 111 0.1910225224397012
+226 434 0.1910225224397012
+228 326 0.22537144634020068
+228 111 0.22537144634020068
+228 396 0.22537144634020068
+228 227 0.22537144634020068
+231 17 0.19101549749201072
+231 396 0.19101549749201072
+232 159 0.25218679665125227
+232 17 0.25218679665125227
+232 227 0.25218679665125227
+232 322 0.25218679665125227
+232 396 0.25218679665125227
+233 126 0.24262950016652218
+233 387 0.24262950016652218
+234 17 0.20311925037193843
+234 126 0.20311925037193843
+303 17 0.276443371141901
+303 120 0.276443371141901
+303 179 0.276443371141901
+303 453 0.276443371141901
+303 227 0.276443371141901
+303 396 0.276443371141901
+238 159 0.23073710259686064
+238 17 0.23073710259686064
+238 354 0.23073710259686064
+238 453 0.23073710259686064
+238 71 0.23073710259686064
+239 17 0.09614548629307833
+239 575 0.09614548629307833
+241 396 0.14923614492284565
+242 453 0.07532132651406896
+243 412 0.17952108143513226
+243 126 0.17952108143513226
+243 240 0.17952108143513226
+543 396 0.17392643169589703
+245 396 0.12549895286164006
+246 17 0.14261017238892928
+246 434 0.14261017238892928
+248 345 0.2658008541679729
+248 17 0.2658008541679729
+248 322 0.2658008541679729
+248 126 0.2658008541679729
+339 345 0.22666213911401578
+251 466 0.1492797334467057
+251 387 0.1492797334467057
+251 336 0.1492797334467057
+251 396 0.1492797334467057
+252 396 0.12492808037235993
+253 126 0.16804009992495977
+256 345 0.1848829228232865
+256 126 0.1848829228232865
+256 384 0.1848829228232865
+180 326 0.21592782524164678
+180 111 0.21592782524164678
+180 316 0.21592782524164678
+180 345 0.21592782524164678
+180 505 0.21592782524164678
+180 396 0.21592782524164678
+257 396 0.14453127051920447
+258 126 0.12134957456839474
+258 387 0.12134957456839474
+261 17 0.22786250852264542
+261 20 0.22786250852264542
+261 337 0.22786250852264542
+262 17 0.276108841275731
+262 322 0.276108841275731
+262 434 0.276108841275731
+262 227 0.276108841275731
+264 345 0.23315205930138416
+264 17 0.23315205930138416
+264 126 0.23315205930138416
+555 126 0.2242196406712407
+555 322 0.2242196406712407
+265 345 0.13637022077127592
+266 17 0.2506972055453639
+266 499 0.2506972055453639
+266 126 0.2506972055453639
+266 345 0.2506972055453639
+266 354 0.2506972055453639
+266 396 0.2506972055453639
+266 575 0.2506972055453639
+266 71 0.2506972055453639
+267 17 0.24403617498788124
+267 111 0.24403617498788124
+267 451 0.24403617498788124
+267 434 0.24403617498788124
+267 326 0.24403617498788124
+267 450 0.24403617498788124
+267 322 0.24403617498788124
+267 156 0.24403617498788124
+493 17 0.22626467158909672
+493 396 0.22626467158909672
+271 126 0.16873898370889923
+272 17 0.13635559836112104
+272 126 0.13635559836112104
+272 354 0.13635559836112104
+272 600 0.13635559836112104
+272 575 0.13635559836112104
+272 424 0.13635559836112104
+272 71 0.13635559836112104
+273 326 0.11720116573606008
+273 68 0.11720116573606008
+273 111 0.11720116573606008
+274 338 0.16954849158489604
+274 17 0.16954849158489604
+275 345 0.23674737842677013
+275 17 0.23674737842677013
+275 263 0.23674737842677013
+275 126 0.23674737842677013
+276 126 0.16681679047563416
+277 126 0.23932948782921623
+277 227 0.23932948782921623
+279 345 0.21417149070978636
+279 382 0.21417149070978636
+280 219 0.23751131926178728
+281 466 0.21785351369506406
+281 17 0.21785351369506406
+281 387 0.21785351369506406
+281 336 0.21785351369506406
+281 570 0.21785351369506406
+281 322 0.21785351369506406
+281 505 0.21785351369506406
+282 126 0.21987317456360192
+282 227 0.21987317456360192
+236 17 0.20516284709756363
+236 434 0.20516284709756363
+236 396 0.20516284709756363
+551 345 0.22160005246695183
+551 396 0.22160005246695183
+285 295 0.14239777163046538
+285 126 0.14239777163046538
+286 396 0.15063320388493331
+561 126 0.16923736905028813
+561 354 0.16923736905028813
+561 71 0.16923736905028813
+288 338 0.17514148128764856
+288 345 0.17514148128764856
+288 17 0.17514148128764856
+289 126 0.2168351475556106
+289 354 0.2168351475556106
+289 71 0.2168351475556106
+291 159 0.21303698207558713
+291 17 0.21303698207558713
+291 354 0.21303698207558713
+291 522 0.21303698207558713
+291 126 0.21303698207558713
+291 71 0.21303698207558713
+292 17 0.24188905514019612
+292 322 0.24188905514019612
+292 200 0.24188905514019612
+294 17 0.15627056359200547
+298 345 0.0877904886422576
+298 600 0.0877904886422576
+299 126 0.2152767584323359
+299 316 0.2152767584323359
+299 505 0.2152767584323359
+299 453 0.2152767584323359
+300 396 0.17354191269380348
+301 17 0.25605261031512877
+301 345 0.25605261031512877
+301 179 0.25605261031512877
+301 445 0.25605261031512877
+301 396 0.25605261031512877
+302 17 0.15481991236916437
+302 505 0.15481991236916437
+302 316 0.15481991236916437
+302 120 0.15481991236916437
+302 227 0.15481991236916437
+333 396 0.16294623646155115
+304 17 0.2255001031733425
+304 126 0.2255001031733425
+304 387 0.2255001031733425
+305 17 0.280119877871121
+305 126 0.280119877871121
+305 387 0.280119877871121
+305 345 0.280119877871121
+305 450 0.280119877871121
+305 322 0.280119877871121
+305 156 0.280119877871121
+307 17 0.14336016438123253
+307 434 0.14336016438123253
+308 338 0.22381108271913486
+308 17 0.22381108271913486
+308 575 0.22381108271913486
+309 397 0.09196938152295658
+309 306 0.09196938152295658
+311 354 0.1135135058270114
+311 71 0.1135135058270114
+312 17 0.28157917432519386
+312 126 0.28157917432519386
+312 345 0.28157917432519386
+312 575 0.28157917432519386
+312 396 0.28157917432519386
+313 345 0.20684851810545304
+313 270 0.20684851810545304
+313 587 0.20684851810545304
+314 322 0.21057975957865477
+314 396 0.21057975957865477
+315 385 0.16689312120386843
+315 396 0.16689312120386843
+317 17 0.23199944288230887
+317 545 0.23199944288230887
+317 499 0.23199944288230887
+317 396 0.23199944288230887
+318 345 0.204057117385832
+318 126 0.204057117385832
+319 126 0.18303538121862198
+320 396 0.16247797731043842
+323 17 0.19823201814522443
+323 126 0.19823201814522443
+327 17 0.17507561305264005
+327 412 0.17507561305264005
+327 111 0.17507561305264005
+327 240 0.17507561305264005
+327 451 0.17507561305264005
+327 326 0.17507561305264005
+327 450 0.17507561305264005
+327 434 0.17507561305264005
+327 156 0.17507561305264005
+328 17 0.27356133050237713
+328 179 0.27356133050237713
+328 126 0.27356133050237713
+328 396 0.27356133050237713
+329 17 0.18162999164926227
+401 345 0.19201216155876832
+401 17 0.19201216155876832
+331 126 0.2588315867903097
+331 13 0.2588315867903097
+332 159 0.2320481429979945
+332 17 0.2320481429979945
+332 451 0.2320481429979945
+332 338 0.2320481429979945
+332 396 0.2320481429979945
+334 17 0.20709513954374542
+334 179 0.20709513954374542
+334 396 0.20709513954374542
+53 345 0.1877779332841514
+53 126 0.1877779332841514
+51 345 0.0837500918626681
+51 505 0.0837500918626681
+51 316 0.0837500918626681
+340 126 0.2777147665756588
+340 316 0.2777147665756588
+340 240 0.2777147665756588
+340 412 0.2777147665756588
+340 505 0.2777147665756588
+341 17 0.08144052884368373
+341 197 0.08144052884368373
+341 451 0.08144052884368373
+342 159 0.26107038663201854
+342 17 0.26107038663201854
+342 354 0.26107038663201854
+342 126 0.26107038663201854
+342 345 0.26107038663201854
+342 71 0.26107038663201854
+343 345 0.23829425071053545
+343 396 0.23829425071053545
+344 345 0.25393236824527987
+344 17 0.25393236824527987
+344 20 0.25393236824527987
+344 337 0.25393236824527987
+114 322 0.12463459191458823
+346 17 0.2556694540139165
+346 451 0.2556694540139165
+346 396 0.2556694540139165
+347 345 0.16524562079430438
+324 17 0.2654395025519274
+324 575 0.2654395025519274
+324 451 0.2654395025519274
+324 396 0.2654395025519274
+349 387 0.10329677414567856
+350 17 0.24124155199409525
+350 47 0.24124155199409525
+350 179 0.24124155199409525
+350 227 0.24124155199409525
+360 534 0.13888097904434976
+360 396 0.13888097904434976
+353 17 0.1760933418799705
+355 445 0.12079988711486925
+355 17 0.12079988711486925
+355 451 0.12079988711486925
+356 126 0.12481237965165856
+357 345 0.26800739165786464
+357 17 0.26800739165786464
+357 575 0.26800739165786464
+357 451 0.26800739165786464
+357 126 0.26800739165786464
+249 396 0.14918588515843775
+358 17 0.17746218730648938
+359 345 0.16290787879380914
+359 126 0.16290787879380914
+359 387 0.16290787879380914
+361 345 0.26168420943527504
+361 126 0.26168420943527504
+361 505 0.26168420943527504
+361 316 0.26168420943527504
+363 345 0.1889896238433993
+363 17 0.1889896238433993
+363 499 0.1889896238433993
+364 591 0.17660092801002925
+178 17 0.2437996073675206
+178 70 0.2437996073675206
+366 126 0.27984118822951903
+366 345 0.27984118822951903
+366 354 0.27984118822951903
+366 71 0.27984118822951903
+366 396 0.27984118822951903
+367 345 0.2614591434184915
+367 17 0.2614591434184915
+367 426 0.2614591434184915
+367 227 0.2614591434184915
+368 17 0.2340835624177109
+368 575 0.2340835624177109
+368 179 0.2340835624177109
+368 126 0.2340835624177109
+369 159 0.2840719118083649
+369 17 0.2840719118083649
+369 20 0.2840719118083649
+369 337 0.2840719118083649
+369 451 0.2840719118083649
+112 126 0.15386746449650426
+112 396 0.15386746449650426
+370 126 0.13026921256037735
+370 354 0.13026921256037735
+370 71 0.13026921256037735
+371 345 0.20796320965322693
+371 396 0.20796320965322693
+222 17 0.18519519479647875
+222 126 0.18519519479647875
+373 17 0.19588128367842395
+373 434 0.19588128367842395
+373 396 0.19588128367842395
+374 345 0.26527810789315676
+374 126 0.26527810789315676
+375 345 0.17165843962861613
+375 17 0.17165843962861613
+376 17 0.24027575090576647
+376 322 0.24027575090576647
+98 17 0.2641490196538277
+98 179 0.2641490196538277
+98 396 0.2641490196538277
+378 126 0.1355708215844683
+379 17 0.2127978420694184
+379 126 0.2127978420694184
+379 451 0.2127978420694184
+380 338 0.19010502055376238
+381 17 0.17809824573126834
+381 434 0.17809824573126834
+381 20 0.17809824573126834
+381 337 0.17809824573126834
+381 451 0.17809824573126834
+383 159 0.27948687640420516
+383 17 0.27948687640420516
+383 322 0.27948687640420516
+383 120 0.27948687640420516
+383 179 0.27948687640420516
+386 126 0.23008553628834238
+386 396 0.23008553628834238
+388 17 0.18487782163429686
+389 126 0.28507935622067476
+389 345 0.28507935622067476
+389 354 0.28507935622067476
+389 71 0.28507935622067476
+389 396 0.28507935622067476
+390 345 0.2106301007257617
+390 17 0.2106301007257617
+390 322 0.2106301007257617
+391 17 0.17862351414334554
+391 126 0.17862351414334554
+392 345 0.24439556107288002
+392 17 0.24439556107288002
+392 451 0.24439556107288002
+393 126 0.2281288891019415
+393 345 0.2281288891019415
+393 450 0.2281288891019415
+393 156 0.2281288891019415
+393 396 0.2281288891019415
+394 345 0.2261850652980835
+394 322 0.2261850652980835
+394 396 0.2261850652980835
+395 466 0.23033843816971533
+395 387 0.23033843816971533
+395 316 0.23033843816971533
+395 336 0.23033843816971533
+395 505 0.23033843816971533
+395 227 0.23033843816971533
+293 126 0.2948260387385257
+293 436 0.2948260387385257
+293 444 0.2948260387385257
+293 345 0.2948260387385257
+293 396 0.2948260387385257
+400 396 0.14020573301588088
+402 396 0.14325731002466335
+325 17 0.14989889220437208
+325 70 0.14989889220437208
+404 345 0.1793217831445093
+404 126 0.1793217831445093
+405 345 0.20834641740132925
+405 101 0.20834641740132925
+405 396 0.20834641740132925
+406 126 0.2865867027191174
+406 354 0.2865867027191174
+406 345 0.2865867027191174
+406 71 0.2865867027191174
+406 227 0.2865867027191174
+408 126 0.14501786633034602
+321 345 0.23641798506035414
+321 126 0.23641798506035414
+321 387 0.23641798506035414
+321 354 0.23641798506035414
+321 71 0.23641798506035414
+410 345 0.22529835710001267
+410 17 0.22529835710001267
+410 20 0.22529835710001267
+410 337 0.22529835710001267
+410 126 0.22529835710001267
+413 17 0.1853008684255075
+235 345 0.2775694436816279
+235 17 0.2775694436816279
+235 575 0.2775694436816279
+235 40 0.2775694436816279
+235 126 0.2775694436816279
+416 17 0.18379231203653137
+416 451 0.18379231203653137
+417 345 0.12538921097336486
+418 396 0.12592025384712469
+419 17 0.21411298761430222
+419 575 0.21411298761430222
+419 451 0.21411298761430222
+419 396 0.21411298761430222
+420 322 0.22431462765065682
+422 17 0.2870231600930811
+422 126 0.2870231600930811
+422 396 0.2870231600930811
+423 345 0.21556959913675722
+423 297 0.21556959913675722
+423 513 0.21556959913675722
+423 396 0.21556959913675722
+425 345 0.1780916640779801
+427 354 0.20317729818410704
+427 71 0.20317729818410704
+428 126 0.19009456563942256
+429 17 0.2529718097274598
+429 570 0.2529718097274598
+429 499 0.2529718097274598
+429 345 0.2529718097274598
+429 505 0.2529718097274598
+429 396 0.2529718097274598
+140 345 0.20990581059261337
+140 17 0.20990581059261337
+140 451 0.20990581059261337
+431 450 0.11775633746678159
+431 156 0.11775633746678159
+432 126 0.2060680250699189
+432 396 0.2060680250699189
+433 159 0.2175557745099936
+433 17 0.2175557745099936
+433 111 0.2175557745099936
+433 240 0.2175557745099936
+433 570 0.2175557745099936
+433 326 0.2175557745099936
+433 505 0.2175557745099936
+433 412 0.2175557745099936
+435 17 0.157632806350577
+287 17 0.2251518297385118
+287 126 0.2251518297385118
+287 553 0.2251518297385118
+230 445 0.2292232576482361
+230 17 0.2292232576482361
+230 227 0.2292232576482361
+437 345 0.27075527088348134
+437 17 0.27075527088348134
+437 179 0.27075527088348134
+437 126 0.27075527088348134
+438 17 0.1759100353481319
+438 553 0.1759100353481319
+438 396 0.1759100353481319
+439 17 0.20031244449296215
+441 17 0.12675676944169592
+441 111 0.12675676944169592
+441 434 0.12675676944169592
+441 326 0.12675676944169592
+441 450 0.12675676944169592
+441 156 0.12675676944169592
+443 17 0.2531547800099954
+443 591 0.2531547800099954
+443 451 0.2531547800099954
+446 17 0.2630057134903929
+446 451 0.2630057134903929
+446 345 0.2630057134903929
+446 396 0.2630057134903929
+447 126 0.24081313184303005
+447 352 0.24081313184303005
+448 17 0.25710833990065785
+448 451 0.25710833990065785
+448 227 0.25710833990065785
+448 322 0.25710833990065785
+448 396 0.25710833990065785
+449 126 0.2195996510463193
+449 505 0.2195996510463193
+449 570 0.2195996510463193
+164 17 0.27210942681239336
+164 412 0.27210942681239336
+164 20 0.27210942681239336
+164 240 0.27210942681239336
+164 451 0.27210942681239336
+164 345 0.27210942681239336
+164 337 0.27210942681239336
+452 466 0.16720792431186954
+452 204 0.16720792431186954
+452 387 0.16720792431186954
+452 336 0.16720792431186954
+454 159 0.2154778117186417
+454 17 0.2154778117186417
+454 111 0.2154778117186417
+454 354 0.2154778117186417
+454 326 0.2154778117186417
+454 68 0.2154778117186417
+454 71 0.2154778117186417
+455 227 0.07546320152750544
+456 17 0.2500215246725174
+456 575 0.2500215246725174
+456 20 0.2500215246725174
+456 337 0.2500215246725174
+456 179 0.2500215246725174
+457 159 0.2764843727840373
+457 17 0.2764843727840373
+457 387 0.2764843727840373
+457 336 0.2764843727840373
+457 337 0.2764843727840373
+457 20 0.2764843727840373
+457 466 0.2764843727840373
+459 345 0.27730453036858294
+459 17 0.27730453036858294
+459 387 0.27730453036858294
+459 451 0.27730453036858294
+459 126 0.27730453036858294
+460 338 0.18492403010297878
+460 345 0.18492403010297878
+460 17 0.18492403010297878
+461 345 0.27411350479763397
+461 17 0.27411350479763397
+461 451 0.27411350479763397
+268 17 0.16948086796105752
+462 162 0.24792508421375867
+462 17 0.24792508421375867
+462 575 0.24792508421375867
+462 126 0.24792508421375867
+463 17 0.2266152683303466
+463 575 0.2266152683303466
+463 499 0.2266152683303466
+464 17 0.13570021252792833
+465 17 0.2780832100776136
+465 126 0.2780832100776136
+28 17 0.1997515119558238
+28 575 0.1997515119558238
+28 126 0.1997515119558238
+468 17 0.24603901620091573
+468 451 0.24603901620091573
+468 396 0.24603901620091573
+471 17 0.2455832253343363
+471 499 0.2455832253343363
+471 396 0.2455832253343363
+473 17 0.26207862951053734
+473 126 0.26207862951053734
+473 396 0.26207862951053734
+208 159 0.210608758634614
+208 17 0.210608758634614
+208 126 0.210608758634614
+474 17 0.20875649214088168
+474 322 0.20875649214088168
+474 451 0.20875649214088168
+474 227 0.20875649214088168
+475 445 0.2164505111723013
+475 345 0.2164505111723013
+475 126 0.2164505111723013
+476 436 0.16049767467307244
+476 155 0.16049767467307244
+476 396 0.16049767467307244
+477 345 0.2515105090390346
+477 17 0.2515105090390346
+477 451 0.2515105090390346
+478 338 0.22765855735176707
+478 396 0.22765855735176707
+414 17 0.24185721728613457
+414 451 0.24185721728613457
+414 126 0.24185721728613457
+414 338 0.24185721728613457
+414 396 0.24185721728613457
+480 17 0.2518456339450526
+480 126 0.2518456339450526
+480 499 0.2518456339450526
+480 345 0.2518456339450526
+480 310 0.2518456339450526
+480 65 0.2518456339450526
+480 227 0.2518456339450526
+481 322 0.10741028415547996
+482 345 0.16666718497883112
+482 126 0.16666718497883112
+483 566 0.21251539250591125
+483 126 0.21251539250591125
+483 436 0.21251539250591125
+483 354 0.21251539250591125
+483 330 0.21251539250591125
+483 71 0.21251539250591125
+484 159 0.21780675429625304
+484 17 0.21780675429625304
+484 451 0.21780675429625304
+484 396 0.21780675429625304
+485 17 0.26276444380421576
+485 240 0.26276444380421576
+485 126 0.26276444380421576
+485 338 0.26276444380421576
+485 575 0.26276444380421576
+485 412 0.26276444380421576
+485 396 0.26276444380421576
+486 345 0.19019727128345879
+486 126 0.19019727128345879
+487 17 0.27438485249115463
+487 570 0.27438485249115463
+487 499 0.27438485249115463
+487 345 0.27438485249115463
+487 505 0.27438485249115463
+488 17 0.20223965476059716
+488 451 0.20223965476059716
+488 227 0.20223965476059716
+488 396 0.20223965476059716
+492 17 0.2065683894395904
+479 17 0.2763733139357285
+479 354 0.2763733139357285
+479 120 0.2763733139357285
+479 345 0.2763733139357285
+479 71 0.2763733139357285
+495 604 0.07581599783586922
+495 36 0.07581599783586922
+372 17 0.2372813556989034
+372 570 0.2372813556989034
+372 120 0.2372813556989034
+372 451 0.2372813556989034
+372 345 0.2372813556989034
+372 505 0.2372813556989034
+497 17 0.24219614033370698
+497 387 0.24219614033370698
+497 20 0.24219614033370698
+497 337 0.24219614033370698
+497 451 0.24219614033370698
+498 466 0.29038519238914273
+498 387 0.29038519238914273
+498 336 0.29038519238914273
+498 126 0.29038519238914273
+498 354 0.29038519238914273
+498 71 0.29038519238914273
+498 396 0.29038519238914273
+500 159 0.2151201532006092
+500 17 0.2151201532006092
+500 20 0.2151201532006092
+500 337 0.2151201532006092
+500 126 0.2151201532006092
+500 545 0.2151201532006092
+501 47 0.2680738230854416
+501 505 0.2680738230854416
+501 570 0.2680738230854416
+501 345 0.2680738230854416
+502 345 0.21904727011212263
+502 322 0.21904727011212263
+504 17 0.1965546920126258
+506 17 0.1778686045148874
+506 354 0.1778686045148874
+506 71 0.1778686045148874
+509 17 0.21313875930229015
+509 20 0.21313875930229015
+509 337 0.21313875930229015
+509 179 0.21313875930229015
+509 445 0.21313875930229015
+509 575 0.21313875930229015
+510 17 0.2126536871678737
+510 126 0.2126536871678737
+510 396 0.2126536871678737
+511 17 0.17929751230327212
+511 126 0.17929751230327212
+512 17 0.1930700790725268
+512 451 0.1930700790725268
+512 396 0.1930700790725268
+515 17 0.23675822564386723
+516 345 0.2694898638879686
+516 126 0.2694898638879686
+516 396 0.2694898638879686
+516 227 0.2694898638879686
+517 345 0.23534382995738196
+517 505 0.23534382995738196
+517 316 0.23534382995738196
+517 396 0.23534382995738196
+519 17 0.23039692624058336
+519 126 0.23039692624058336
+519 337 0.23039692624058336
+519 227 0.23039692624058336
+519 345 0.23039692624058336
+519 20 0.23039692624058336
+519 434 0.23039692624058336
+519 396 0.23039692624058336
+521 126 0.15545471322100682
+523 126 0.19197787637506347
+523 382 0.19197787637506347
+524 126 0.28220632632391107
+524 354 0.28220632632391107
+524 71 0.28220632632391107
+524 396 0.28220632632391107
+525 126 0.2408131312762373
+525 354 0.2408131312762373
+525 71 0.2408131312762373
+559 345 0.1790737892897634
+559 126 0.1790737892897634
+559 553 0.1790737892897634
+526 396 0.1347083332423906
+527 17 0.2491590727482746
+527 126 0.2491590727482746
+527 20 0.2491590727482746
+527 499 0.2491590727482746
+527 445 0.2491590727482746
+527 530 0.2491590727482746
+527 337 0.2491590727482746
+528 453 0.2583072321863514
+528 396 0.2583072321863514
+152 159 0.2235247840049053
+152 17 0.2235247840049053
+152 451 0.2235247840049053
+152 179 0.2235247840049053
+531 566 0.28439008607906974
+531 586 0.28439008607906974
+531 354 0.28439008607906974
+531 345 0.28439008607906974
+531 322 0.28439008607906974
+531 259 0.28439008607906974
+531 71 0.28439008607906974
+496 354 0.0760565158580107
+496 71 0.0760565158580107
+496 565 0.0760565158580107
+532 126 0.16725113293533939
+533 445 0.20575490383534026
+533 17 0.20575490383534026
+533 451 0.20575490383534026
+536 345 0.17305265251291552
+536 591 0.17305265251291552
+537 345 0.14098893856129543
+442 126 0.16279196048692554
+442 269 0.16279196048692554
+538 17 0.24446297921359086
+538 322 0.24446297921359086
+538 396 0.24446297921359086
+283 17 0.14208548017895611
+539 345 0.22087360429002825
+539 17 0.22087360429002825
+539 434 0.22087360429002825
+540 345 0.24198833954521354
+540 126 0.24198833954521354
+540 593 0.24198833954521354
+540 227 0.24198833954521354
+541 227 0.17519634238765117
+592 159 0.18988965412055742
+592 17 0.18988965412055742
+592 387 0.18988965412055742
+592 451 0.18988965412055742
+124 126 0.3016567140842598
+124 316 0.3016567140842598
+124 61 0.3016567140842598
+124 345 0.3016567140842598
+124 505 0.3016567140842598
+124 396 0.3016567140842598
+544 508 0.27229212638684447
+544 345 0.27229212638684447
+544 126 0.27229212638684447
+544 396 0.27229212638684447
+157 345 0.26737585951321774
+157 387 0.26737585951321774
+157 553 0.26737585951321774
+157 338 0.26737585951321774
+157 126 0.26737585951321774
+548 17 0.28778116360420253
+548 397 0.28778116360420253
+548 111 0.28778116360420253
+548 336 0.28778116360420253
+548 240 0.28778116360420253
+548 326 0.28778116360420253
+548 575 0.28778116360420253
+548 450 0.28778116360420253
+548 156 0.28778116360420253
+548 396 0.28778116360420253
+548 466 0.28778116360420253
+548 412 0.28778116360420253
+548 387 0.28778116360420253
+548 120 0.28778116360420253
+548 354 0.28778116360420253
+548 337 0.28778116360420253
+548 20 0.28778116360420253
+548 71 0.28778116360420253
+548 306 0.28778116360420253
+421 17 0.18596485735802437
+421 397 0.18596485735802437
+421 306 0.18596485735802437
+421 120 0.18596485735802437
+421 322 0.18596485735802437
+421 227 0.18596485735802437
+550 450 0.07740743904976244
+550 156 0.07740743904976244
+467 445 0.2378999800534757
+467 345 0.2378999800534757
+552 345 0.25134577453706947
+552 227 0.25134577453706947
+490 126 0.2423769913765749
+490 354 0.2423769913765749
+490 71 0.2423769913765749
+554 466 0.09591029757284099
+554 387 0.09591029757284099
+554 336 0.09591029757284099
+250 396 0.17606032280647327
+250 227 0.17606032280647327
+556 17 0.2479068614114594
+556 451 0.2479068614114594
+556 396 0.2479068614114594
+557 126 0.21967786775147477
+557 396 0.21967786775147477
+558 345 0.2606247054609436
+558 126 0.2606247054609436
+284 17 0.2528878775824852
+284 322 0.2528878775824852
+284 396 0.2528878775824852
+284 227 0.2528878775824852
+77 345 0.2304610414604342
+77 126 0.2304610414604342
+77 322 0.2304610414604342
+77 382 0.2304610414604342
+247 588 0.191869197984341
+247 205 0.191869197984341
+247 505 0.191869197984341
+247 126 0.191869197984341
+564 17 0.2521728527736075
+564 20 0.2521728527736075
+564 337 0.2521728527736075
+567 126 0.1648445084964378
+567 387 0.1648445084964378
+567 396 0.1648445084964378
+569 412 0.2242261087575439
+569 126 0.2242261087575439
+569 240 0.2242261087575439
+569 396 0.2242261087575439
+571 345 0.23927031172152727
+571 17 0.23927031172152727
+571 120 0.23927031172152727
+571 179 0.23927031172152727
+572 387 0.20296870462044578
+572 354 0.20296870462044578
+572 71 0.20296870462044578
+572 396 0.20296870462044578
+573 159 0.22509240111154472
+573 17 0.22509240111154472
+573 575 0.22509240111154472
+494 415 0.08617046299741964
+494 396 0.08617046299741964
+574 126 0.09512108739728714
+351 570 0.25581368446153296
+351 354 0.25581368446153296
+351 345 0.25581368446153296
+351 453 0.25581368446153296
+351 505 0.25581368446153296
+351 71 0.25581368446153296
+576 17 0.16447694365260968
+576 499 0.16447694365260968
+577 17 0.24632510505943
+577 499 0.24632510505943
+577 451 0.24632510505943
+578 17 0.24315690044571492
+578 354 0.24315690044571492
+578 337 0.24315690044571492
+578 20 0.24315690044571492
+578 71 0.24315690044571492
+579 17 0.14422692822250088
+580 17 0.2430074777622136
+580 451 0.2430074777622136
+580 499 0.2430074777622136
+580 179 0.2430074777622136
+580 227 0.2430074777622136
+581 17 0.12231265935053852
+582 17 0.16146649903485796
+582 451 0.16146649903485796
+583 466 0.27506565405631495
+583 17 0.27506565405631495
+583 387 0.27506565405631495
+583 336 0.27506565405631495
+583 451 0.27506565405631495
+583 534 0.27506565405631495
+583 227 0.27506565405631495
+584 126 0.14852907716801556
+585 396 0.12172403710967025
+602 345 0.2521119277215757
+602 17 0.2521119277215757
+602 179 0.2521119277215757
+602 126 0.2521119277215757
+215 17 0.21523450366171998
+185 560 0.19237026637388888
+185 396 0.19237026637388888
+590 126 0.13652949852669044
+590 244 0.13652949852669044
+594 17 0.2502325323976777
+594 179 0.2502325323976777
+594 499 0.2502325323976777
+594 211 0.2502325323976777
+542 17 0.13846448862468408
+542 126 0.13846448862468408
+542 120 0.13846448862468408
+596 396 0.11542964927623887
+597 17 0.19230865602250513
+597 126 0.19230865602250513
+598 345 0.221672948533307
+598 126 0.221672948533307
+598 396 0.221672948533307
+599 17 0.2520566179554208
+599 451 0.2520566179554208
+599 396 0.2520566179554208
+601 17 0.1864450652754613
+601 227 0.1864450652754613
+601 84 0.1864450652754613
+549 17 0.22943418718559683
+549 396 0.22943418718559683
+603 126 0.21070911293074937
